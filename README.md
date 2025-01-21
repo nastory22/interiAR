@@ -30,7 +30,7 @@
 - **2차 프로젝트** (프로토타입): 2024년 10월 02일 - 10월 28일
 - **3차 프로젝트** (최종): 2024년 11월 08일 - 11월 20일
 ---------------------------------------
-</div>
+ </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
@@ -58,7 +58,7 @@
 ## 1. 전체 서비스 아키텍쳐
 
 <p align="center">
-	<img width="70%" src="![Image](https://github.com/user-attachments/assets/a3188194-88b9-42b2-a115-3b7a4b5f3d34)">
+	<img width="70%" src="https://github.com/user-attachments/assets/a3188194-88b9-42b2-a115-3b7a4b5f3d34">
 </p>
 
 ----------------------------------------
