@@ -58,7 +58,7 @@
 ## 1. 전체 서비스 아키텍쳐
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/f82cdef1-cf84-4a7c-9955-be6b1c0c59b7">
+	<img width="70%" src="https://github.com/user-attachments/assets/9d9c5db8-daed-419d-82c2-e3f400aa4df6">
 </p>
 
 ----------------------------------------
