@@ -1,0 +1,50 @@
+sudo yum install -y amazon-ssm-agent  # Amazon Linux
+sudo systemctl start amazon-ssm-agent
+sudo systemctl enable amazon-ssm-agent
+sudo systemctl status amazon-ssm-agent # 상태 확인
+sudo systemctl restart amazon-ssm-agent # ssm 오류 났을 경우
+
+--------------------------------
+#ubuntu 버전
+sudo apt-get update
+sudo apt-get install -y snapd
+sudo snap install amazon-ssm-agent --classic
+sudo systemctl start snap.amazon-ssm-agent.amazon-ssm-agent.service
+sudo systemctl enable snap.amazon-ssm-agent.amazon-ssm-agent.service
+sudo systemctl status snap.amazon-ssm-agent.amazon-ssm-agent.service
+
+--------------------------------
+# 뭔지모름 안되면하셈 ubuntu
+sudo apt update
+sudo apt install snapd
+
+sudo systemctl enable --now snapd.socket
+
+sudo snap install amazon-ssm-agent
+
+sudo systemctl start snap.amazon-ssm-agent.amazon-ssm-agent.service
+
+sudo systemctl status snap.amazon-ssm-agent.amazon-ssm-agent.service
+
+sudo systemctl restart snap.amazon-ssm-agent.amazon-ssm-agent.service
+
+sudo snap install amazon-ssm-agent --classic
+sudo systemctl start amazon-ssm-agent
+sudo systemctl enable amazon-ssm-agent
+
+sudo snap services amazon-ssm-agent
+
+sudo snap start amazon-ssm-agent
+
+sudo snap services amazon-ssm-agent
+
+sudo snap enable amazon-ssm-agent
+
+sudo snap services amazon-ssm-agent
+
+sudo snap install aws-cli --classic
+
+sudo apt update
+sudo apt install awscli
+
+aws --version
