@@ -54,9 +54,9 @@
 
 ----------------------------------------
 
-# 아키텍쳐
+# 아키텍처
 
-## 1. 전체 서비스 아키텍쳐
+## 1. 전체 서비스 아키텍처
 
 <p align="center">
 	<img width="70%" src="https://github.com/user-attachments/assets/9d9c5db8-daed-419d-82c2-e3f400aa4df6">
