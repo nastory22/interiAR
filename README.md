@@ -63,7 +63,9 @@
 </p>
 
 ## 2. AWS 아키텍처
-
+<p align="center">
+	<img width="70%" src="https://github.com/user-attachments/assets/b988e967-1d84-48e7-8c8b-57f3cd0d323a">
+</p>
 ----------------------------------------
 
 # 회고
